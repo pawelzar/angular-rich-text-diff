@@ -26,6 +26,6 @@
     "dt-angular": "~1.2.16"
   },
   "dependencies": {
-    "google-diff-match-patch": "~0.1.0"
+    "diff-match-patch": "1.0.0"
   }
 }
